@@ -49,8 +49,8 @@ export default function Adidas(props) {
       width: '100%',
     },
     card: {
-        width: 360,
-        height: 250,
+        width: 300,
+        height: 300,
         marginTop: 20,
         marginBottom: 20,
     },
@@ -66,7 +66,7 @@ export default function Adidas(props) {
         fontWeight: 'bold',
         backgroundColor:'#0f0f0fdb',
         color:'red',
-        marginTop: 197,
+        marginTop: 250,
         textAlign:'center'
     },
 });
